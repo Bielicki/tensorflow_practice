@@ -19,4 +19,11 @@
 ----------
 #### MNIST 
 When it comes to object detection MNIST DB is absolute must do, so that is going to be my first choice
+
+----------
+#### Cats vs. Dogs
+- The idea came from Kaggle competition: https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition
+- Data I used in the project come from kaggle(see link above)
+
+
  
